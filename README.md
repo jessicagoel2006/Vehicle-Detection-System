@@ -1,8 +1,6 @@
-# Vehicle-Detection-System
-Robust Multi-Sensor Vehicle Detection System for Blind Curves and Low-Visibility Conditions
 🚗 Vehicle Detection & Road Safety System
 
-> Intelligent MATLAB-based road safety system for detecting vehicles, monitoring blind curves, and generating real-time safety alerts under low-visibility conditions.
+A MATLAB-based image processing framework for vehicle detection, lane tracking, threat analysis, and road safety monitoring.
 
 ---
 
@@ -109,7 +107,7 @@ Safety Report
 
 ---
 
-👥 Contributors
+👥 Developers 
 
 **Jessica Goel**  
 B.Tech Electronics & Communication Engineering (ACT)
