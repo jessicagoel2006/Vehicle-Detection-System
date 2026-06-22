@@ -1,10 +1,10 @@
-##🚗 Vehicle Detection & Road Safety System
+# 🚗Vehicle Detection & Road Safety System
 
 A MATLAB-based image processing framework for vehicle detection, lane tracking, threat analysis, and road safety monitoring.
 
 ---
 
-#🎯 Project Overview
+# 🎯 Project Overview
 
 Road accidents frequently occur due to blind turns, poor visibility, and delayed driver response. This project presents a multi-sensor inspired vehicle detection framework that uses image processing and motion analysis techniques to identify nearby vehicles, detect road lanes, and generate warning alerts.
 
@@ -12,7 +12,7 @@ The system simulates real-world road scenarios and provides an early warning mec
 
 ---
 
-#✨ Key Features
+# ✨ Key Features
 
 ✅ Vehicle Detection using image processing techniques
 
@@ -34,7 +34,7 @@ The system simulates real-world road scenarios and provides an early warning mec
 
 ---
 
-#⚙️ System Workflow
+# ⚙️ System Workflow
 
 ```text
 Road Scenario
@@ -56,7 +56,7 @@ Safety Report
 
 ---
 
-#🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 | Category | Tools |
 |-----------|--------|
@@ -68,7 +68,7 @@ Safety Report
 
 ---
 
-#📂 Project Structure
+# 📂 Project Structure
 
 | File | Purpose |
 |--------|---------|
@@ -86,7 +86,7 @@ Safety Report
 
 ---
 
-#🚦 Applications
+# 🚦 Applications
 
 - Intelligent Transportation Systems
 - Driver Assistance Systems
@@ -97,7 +97,7 @@ Safety Report
 
 ---
 
-#📈 Future Enhancements
+# 📈 Future Enhancements
 
 - Integration with real-time camera feeds
 - Deep Learning based vehicle classification
@@ -107,14 +107,14 @@ Safety Report
 
 ---
 
-#👥 Developers 
+# 👥 Developers 
 
 **Jessica Goel**  
 B.Tech Electronics & Communication Engineering (ACT)
 
 ---
 
-#📌 Status
+# 📌 Status
 
 ✅ Academic Project Successfully Submitted
 
